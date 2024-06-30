@@ -1,5 +1,6 @@
 ## Sales Report :
 
+Prensentaion video: https://youtu.be/VTzAFqREwJo
 
 - **Project objective:** 
 
