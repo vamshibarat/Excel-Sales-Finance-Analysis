@@ -1,7 +1,5 @@
 ## Sales Report :
 
-Prensentaion video: https://youtu.be/VTzAFqREwJo
-
 - **Project objective:** 
 
     **1.** Create a _[customer performance report](https://github.com/vamshibarat/Excel-Sales-Analysis/blob/main/Customer%20Perforamance%20Report.pdf)_ 
